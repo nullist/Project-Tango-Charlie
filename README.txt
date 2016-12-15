@@ -28,13 +28,13 @@ IDEAS
 
 		CRIME  				A player can choose to do crimes.
 
-		ILLEGAL ITEMS  		A player can choose to posses "illegal items".
+		ILLEGAL ITEMS  			A player can choose to posses "illegal items".
 
 		COURT  				A player can go to court.
 
-		CONVICTION  		A player can be convicted of a crime/s by other players.
+		CONVICTION  			A player can be convicted of a crime/s by other players.
 
-		ANTI CRIME SYSTEM  	The "system" will crack down on the "criminals".
+		ANTI CRIME SYSTEM  		The "system" will crack down on the "criminals".
 
 		PRISON  			A player can go to prison.
 
@@ -42,7 +42,7 @@ IDEAS
 
 		LAWS 				A player can break laws.
 
-		CIVILIAN LIFE 		A player can be a cog in the machine.
+		CIVILIAN LIFE 			A player can be a cog in the machine.
 
 		THEFT 				A player can steal items.
 
