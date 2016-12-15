@@ -54,7 +54,7 @@ IDEAS
 
 		HOUSES 				A player can buy a house.
 
-		FURNITURE 			A player can furnish a hous.
+		FURNITURE 			A player can furnish a house.
 
 		WEAPONS 			A player can posses weapons (illegal or non illegal)
 
