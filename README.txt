@@ -61,3 +61,7 @@ IDEAS
 		VOTING 				A player can vote. Laws may change, or not change.
 
 		TAXES 				A player may pay/evade taxes.
+
+Refrences
+
+http://www.coranac.com/tonc/text/regbg.htm
