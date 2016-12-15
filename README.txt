@@ -68,3 +68,8 @@ Refrences
 
 		http://www.coranac.com/tonc/text/regbg.htm
 		http://www.lazyfoo.net/SDL_tutorials/lesson29/index.php
+	
+	Isometric Art
+		
+		http://www.gotoandplay.it/_articles/2004/10/tcgtipa.php
+		https://gamedevelopment.tutsplus.com/tutorials/creating-isometric-worlds-a-primer-for-game-developers--gamedev-6511
