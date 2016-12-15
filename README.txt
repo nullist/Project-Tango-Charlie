@@ -64,4 +64,7 @@ IDEAS
 
 Refrences
 
-http://www.coranac.com/tonc/text/regbg.htm
+	Tile Mapping
+
+		http://www.coranac.com/tonc/text/regbg.htm
+		http://www.lazyfoo.net/SDL_tutorials/lesson29/index.php
