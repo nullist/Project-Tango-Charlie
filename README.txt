@@ -3,7 +3,7 @@ Project - "Thug City"
 Intro
 
 		Currently, I've been burning off school to fantasize about a potential exploration into the role playing world.
-		I have never made a video game, and I usually lose my interest at some point down the road. However, if the stakes were a little higher, and the overall idea was substainly open ended (inifinite room for growth) adhd or not I could stay engaged. What I am currently calling "Thug City", is what could be described as a crimes simulator, but the more I try to characterize such a thing the more it sounds like a society sim. The reason I say this is because well, crime would not exist without laws, laws would not exist without a government, and a government would not exist without a body of people. I myself have an interest in macro economoics that I would love to observe  how such a concept manifests itself in a vacume. In fact as I write this, I'm learning that we all could explore various interest in creating such an entity. I wanted to get this out there before I bombarded you with my various ideas of how this world could potentially work, still listening?
+		I have never made a video game, and I usually lose my interest at some point down the road. However, if the stakes were a little higher, and the overall idea was substainly open ended (infinite room for growth) adhd or not I could stay engaged. What I am currently calling "Thug City", is what could be described as a crimes simulator, but the more I try to characterize such a thing the more it sounds like a society sim. The reason I say this is because well, crime would not exist without laws, laws would not exist without a government, and a government would not exist without a body of people. I myself have an interest in macro economoics that I would love to observe  how such a concept manifests itself in a vacuum. In fact as I write this, I'm learning that we all could explore various interest in creating such an entity. I wanted to get this out there before I bombarded you with my various ideas of how this world could potentially work, still listening?
 
 FAQ
 
@@ -16,7 +16,7 @@ FAQ
 
 		Honestly, I can not say. We are only limited by our imaginations.
 
-	I feel like your holding back?
+	I feel like you're holding back?
 
 		I am... I feel it would only be proper to list my ideas as opposed to going off on  a rant.
 
@@ -28,7 +28,7 @@ IDEAS
 
 		CRIME  				A player can choose to do crimes.
 
-		ILLEGAL ITEMS  			A player can choose to posses "illegal items".
+		ILLEGAL ITEMS  			A player can choose to possess "illegal items".
 
 		COURT  				A player can go to court.
 
@@ -48,7 +48,7 @@ IDEAS
 
 		WORK 				A player can work a bogus job.
 
-		MONEY 				A player can posses/lose money.
+		MONEY 				A player can possess/lose money.
 
 		GANG/CLAN 			A player can join a gang.
 
@@ -56,7 +56,7 @@ IDEAS
 
 		FURNITURE 			A player can furnish a house.
 
-		WEAPONS 			A player can posses weapons (illegal or non illegal)
+		WEAPONS 			A player can possess weapons (illegal or non illegal)
 
 		VOTING 				A player can vote. Laws may change, or not change.
 
